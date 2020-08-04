@@ -1,4 +1,4 @@
-##React-Firebase Realtime Todo App!
+# React-Firebase Realtime Todo App!
 
 <p><b>Project live on the link [React Todo](https://todo-app-cp-e112a.web.app/).</b></p>
 
